@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sound-healing": {
+      "command": "python3",
+      "args": [
+        "/absolute/path/to/Sound-Healing-MCP/server.py"
+      ]
+    }
+  }
+}
